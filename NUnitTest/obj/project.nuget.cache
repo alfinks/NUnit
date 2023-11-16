@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3UbzlKWYfKfymsnL8yz/j7kbT8bmejD7Ig56FW3/SFh2+IVpkqDpk1/JTjTUqzr9otjZdr/EmvzjmvXiLJfAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maulana Alfiansyah\\source\\repos\\NUnitTest\\NUnitTest\\NUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maulana Alfiansyah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maulana Alfiansyah\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Maulana Alfiansyah\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
